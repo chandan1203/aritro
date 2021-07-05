@@ -1,0 +1,44 @@
+.header-top-two .top-left .info-list li{
+    border-right:0px;
+}
+.header-top-two .top-left .info-list li:last-child{
+    margin-left: 250px;
+}
+.main-header.header-style-two .main-menu .navigation > li > a{
+    padding: 27px 0px;
+}
+.main-header.header-style-two .options-box {
+     margin-top: 0;
+
+}
+.main-header.header-style-two .main-menu .navigation > li:before {
+    bottom: 16px;
+}
+.my-nav-bar{
+    max-width: 100%;
+}
+.services-section .my-last-part{
+    padding-top: 30px;
+    padding-bottom: 35px;
+}
+.services-section .text-bar {
+
+     margin-top: 0;
+    margin-bottom: 35px;
+
+}
+.services-section{
+    padding-bottom: 10px;
+}
+.main-footer .footer-bottom .arrow-column {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 10000;
+}
+.sec-title h2 {
+    font-size: 40px;
+}
+.numbering-list .number{
+    display: none;
+}
